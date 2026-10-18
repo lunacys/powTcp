@@ -2,6 +2,7 @@ module powTcp
 
 go 1.27
 
+require golang.org/x/sync v0.24.0
 require github.com/stretchr/testify v1.12.1
 
 require (
